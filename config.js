@@ -10,7 +10,7 @@ global.mods = ['']
 global.prems = ['6285242489614'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᴹᴿ᭄ Yance offc ঔৣ꧂'
+global.nameowner = 'ᴹᴿ᭄ Alfreda offc ঔৣ꧂'
 global.numberowner = '6285242489614','6285242489614',
 global.instagram = 'https://instagram.com/Jarotr_'
 global.github = 'https://github.com/Alpiii22'
@@ -24,7 +24,7 @@ global.pulsa = '085242489614'
 global.gopay = '085242489614'
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙Darkbotz-MD⳹ ❋ཻུ۪۪'
+global.namebot = '❋ཻུ۪۪⸙Alfreda-MD⳹ ❋ཻུ۪۪'
 global.gc = 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
 global.web = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/Jarotr_'
@@ -46,7 +46,7 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '❋ཻུ۪۪⸙YANCE-MD⳹ ❋ཻུ۪۪'
 global.watermark = wm
-global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜYance offcོ1꧅'
+global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜYANCE offcོ1꧅'
 global.wm3 = 'ᯤ yance 𝙾𝙵𝙲'
 global.htki = '––––––『' 
 global.htka = '』––––––'
@@ -57,7 +57,7 @@ global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'Darkbotz'
+global.packname = 'Alfreda_OFFC'
 global.author = '@Yance'
 
 //=============『 Apikey 』================== //
