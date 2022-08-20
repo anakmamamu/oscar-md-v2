@@ -7,7 +7,7 @@
 //=============『 Utama 』================== //
 global.owner = ['6285242489614','6285242489614'] 
 global.mods = [''] 
-global.prems = ['6285850539404'] 
+global.prems = ['6285242489614'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'ᴹᴿ᭄ Yance offc ঔৣ꧂'
@@ -44,7 +44,7 @@ global.fotonya8 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //foto ses
 global.donasi = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ganti pakai poto payment atau apa
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '❋ཻུ۪۪⸙Dark-MD⳹ ❋ཻུ۪۪'
+global.wm = '❋ཻུ۪۪⸙YANCE-MD⳹ ❋ཻུ۪۪'
 global.watermark = wm
 global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜYance offcོ1꧅'
 global.wm3 = 'ᯤ yance 𝙾𝙵𝙲'
